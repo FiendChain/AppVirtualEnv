@@ -1,0 +1,139 @@
+{
+  "apps": [
+    {
+      "name": "BosonX",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\BosonX\\bosonx.exe",
+      "args": "",
+      "env_name": "Generic",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "City Racing",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\City Racing\\game.exe",
+      "args": "",
+      "env_name": "Generic",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "GTA SA",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\GTA San Andreas\\gta-sa.exe",
+      "args": "",
+      "env_name": "GTA SA",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Far Cry 3",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\Far Cry 3\\FarCry 3\\bin\\farcry3.exe",
+      "args": "",
+      "env_name": "Far Cry",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Far Cry 4",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\Far Cry 4\\bin\\FarCry4.exe",
+      "args": "",
+      "env_name": "Far Cry",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Tomb Raider",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\Tomb Raider\\TombRaider.exe",
+      "args": "",
+      "env_name": "Tomb Raider",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Dishonored",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\Dishonored\\Binaries\\Win32\\Dishonored.exe",
+      "args": "",
+      "env_name": "Dishonored",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Dragon Nest",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\DragonNest\\DragonNest.exe",
+      "args": "",
+      "env_name": "Dragon Nest",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Halo CE",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\Halo CE\\haloce.exe",
+      "args": "",
+      "env_name": "Generic",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Halo Online",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\Halo Online\\eldorado.exe",
+      "args": "",
+      "env_name": "Halo Online",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Nintendo",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\NintendoDS\\Desmume\\DeSmuME_0.9.11_x64.exe",
+      "args": "",
+      "env_name": "Nintendo",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Crysis",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\Crysis\\Bin64\\Crysis64.exe",
+      "args": "",
+      "env_name": "Crysis",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Crysis 2",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\Crysis 2 Maximum Edition\\bin32\\Crysis2.exe",
+      "args": "",
+      "env_name": "Crysis",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Crysis 3",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\Crysis 3\\Bin32\\Crysis3.exe",
+      "args": "",
+      "env_name": "Crysis",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    },
+    {
+      "name": "Flight Simulator 2004",
+      "username": "FiendChain",
+      "exec_path": "E:\\Games\\Other Games\\FS2004\\fs9.exe",
+      "args": "",
+      "env_name": "Flight Simulator",
+      "env_config_path": "E:\\GameEnv\\scripts\\config\\default_env.json",
+      "env_parent_dir": "E:\\GameEnv\\envs"
+    }
+  ]
+}
